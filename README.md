@@ -1,15 +1,12 @@
-# Basic HTML Website
+# Datepicker Simple UI
 
 ## Project Overview
 
-This project demonstrates the fundamental structure of a simple HTML-only website. It includes multiple pages and follows semantic HTML principles, providing a foundation that can be styled and extended in future projects.
+This project demonstrates the fundamental structure of a simple Datepicker UI. It includes positioning, layout, and styling techniques in CSS.
 
 ## Features
 
-- **Semantic HTML**: Utilizes HTML5 semantic elements such as `<header>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>` for better accessibility and SEO.
-- **Navigation Bar**: A consistent navigation bar on all pages links to every other page in the site.
-- **SEO Meta Tags**: Each page includes meta tags for character set, viewport settings, description, keywords, and author.
-- **Contact Form**: The contact page contains a form for user inquiries.
+- **CSS**: In this project, I applied CSS techniques focused on positioning, layout, and visual styling to recreate a datepicker interface based on the provided mockup.
 
 ## Getting Started
 
@@ -22,4 +19,4 @@ To view the website, simply open the HTML files in a web browser. You can naviga
 
 ## Project Reference
 
-**Site link:** https://roadmap.sh/projects/basic-html-website
+**Site link:** https://roadmap.sh/projects/datepicker-ui
